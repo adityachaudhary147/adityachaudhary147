@@ -13,8 +13,8 @@
 
 [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/chaudharyaditya147/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/aditya._.chaudhary/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/chaudharyaditya.in/) 
 <br>
-[![HitCount](http://hits.dwyl.com/adityachaudhary147/adityachaudhary147.svg)](http://hits.dwyl.com/adityachaudhary147/adityachaudhary147)
 
+![](https://komarev.com/ghpvc/?username=adityachaudhary147&color=dc143c)
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

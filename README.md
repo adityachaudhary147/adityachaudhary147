@@ -6,4 +6,4 @@
 </div>
 <div align="center">
 
-[Linkedin​](https://www.linkedin.com/in/147chaudhary/) ● [Codeforces​](https://codeforces.com/profile/147chaudhary) 
+[Linkedin​](https://www.linkedin.com/in/147chaudhary/) 
